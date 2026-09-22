@@ -1,5 +1,5 @@
 # shipyard-rm-throwaway
-## repo for testing the release manager.
-### this is rm-v2
-no. no no no no
-yeah i am here now
+
+Confirmation message added earlier.
+
+Evidence-run marker: 2026-09-22T04:15:41Z
